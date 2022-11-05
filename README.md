@@ -1,4 +1,7 @@
 <p>
+  <img src="./.renders/preview/moon-rock.png" width="100%" alt="moon-rock" />
+</p>
+<p>
   <img src="./.renders/preview/cube.png" width="100%" alt="Cube things" />
 </p>
 <p>
